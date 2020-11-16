@@ -1,5 +1,4 @@
-import greeting from './greet'
+import getGreeting from './greet'
 
 
-console.log(greeting)
-console.log('more')
+console.log(getGreeting('jason'))
